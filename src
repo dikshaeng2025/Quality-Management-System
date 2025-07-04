@@ -5,4 +5,38 @@
   text-align: center;
 }
 
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
 
+/* Login window styles - Modern Blue/Indigo Theme */
+.login-root {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+/* TestWindow Style - Modern Blue.Indigo Theme */
+.testwindow-root {
+  background: #f3f6fd;
+  max-width: 700px;
+  margin: 40px auto;
+  border-radius: 18px;
+
+/* EmployeeDashboard styles - Modern Blue/Indigo Theme */
+.employee-dashboard-root {
+  color: #222b45;
+  margin-top: 2em;
+
+/* EmployeePerformance styles - Modern Blue/Indigo Theme */
+.employee-performance-root {
+  color: #222b45;
+  margin-top: 2em;
+  display: flex;
+  flex-direction: column;
+
+  display: flex;
+  flex-direction: column;
