@@ -1,0 +1,39 @@
+Role,5S,Safety,Basics of Electronics,Basics of Quality,SMT Electronics Assembly,Manual Electronics Assembly,Mechanical Assembly,Testing - Electrical/ Electronic Parts,Testing - PCBA,Dimensional inspection (gauges),Dimensional inspection (instruments),Laser Printing,Wire Cutting-Stripping,Wire Crimping,Packing,Leadership & Team Management,Communication & Interpersonal Skill,Problem Solving & Critical Thinking,Planning & Time Management,"IATF 16949/ISO 9001:2015 QMS
+ Awareness",Material Planning & Inventory Control,Supply Chain Management,Data Analytics and Reporting,MS Excel,SPC,MSA,4M Change,FMEA,Abnormality Handling,PPAP & APQP,Kaizen,Poka Yoke,7 QC Tools,Compliance & Ethical Responsibility,Internal Auditor Certification*,FIFO,Rework on electronic parts,Sampling and inspection
+Plant Head,3,3,-,-,-,-,-,-,-,-,-,-,-,-,-,3,4,4,4,3,3,2,-,-,-,-,-,-,-,-,-,-,-,3,-,-,-,-
+Management Representative,2,2,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,3,-,3,-,-,2,2,3,-,3,-,-,3,3,-,4,-,-,-,-,-
+Sales Executive,-,2,-,2,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Sr. Sales Executive,-,2,-,2,-,-,-,-,-,-,-,-,-,-,-,-,3,2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Area Sales Manager,2,2,-,2,-,-,-,-,-,-,-,-,-,-,-,2,3,3,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Regional Sales Manager,2,2,-,2,-,-,-,-,-,-,-,-,-,-,-,3,4,3,3,-,-,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+National Sales Manager,2,2,-,2,-,-,-,-,-,-,-,-,-,-,-,4,4,4,4,-,-,-,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Accounts Manager,2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,2,2,-,-,-,-,-,3,3,-,-,-,-,-,-,-,-,-,3,-,-,-,-
+Accounts Executive,2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,2,-,-,-,-,-,-,-,-,-,2,-,-,-,-
+Purchase Manager,2,2,2,2,-,-,-,-,-,-,-,-,-,-,-,2,3,3,3,3,3,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-
+Purchase Engineer,2,2,2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Production Manager (Electronics),3,3,-,-,3,4,3,3,4,-,-,-,-,-,-,3,3,-,3,3,-,-,-,-,-,-,3,-,4,-,3,4,3,-,-,-,-,-
+Production Manager (Mechanical),3,3,-,-,-,-,3,3,-,4,4,3,3,3,3,3,3,-,3,3,-,-,-,-,-,-,3,-,4,-,3,4,3,-,-,-,-,-
+"Team Leader, Testing & Packing",3,3,2,3,-,-,2,3,-,3,2,3,-,-,3,2,2,-,-,2,-,-,-,-,-,-,2,-,2,-,3,-,-,-,-,-,-,-
+Production Operator (Electronics SMT),2,2,2,2,3,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,2,-,-,-,-,-,-,-
+Production Operator (Manual Electronics Assy),2,2,2,2,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,2,-,-,-,-,-,-,-
+Quality Manager,4,3,3,-,3,3,3,3,3,4,4,3,-,3,-,3,-,-,3,4,-,-,-,-,3,3,3,4,3,4,4,4,4,3,-,-,-,3
+Asst Manager Quality,4,3,3,-,3,3,3,3,3,3,3,3,-,3,-,-,-,-,2,3,-,-,-,-,3,3,3,3,3,3,3,3,3,2,-,-,-,3
+Quality Executive,3,2,2,2,-,-,-,2,2,2,2,-,-,2,2,-,-,-,-,2,-,-,-,-,-,-,2,-,2,-,2,2,-,-,-,-,-,2
+Testing Operator (PCBA),2,2,3,2,-,3,-,-,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-,-,-
+Testing Operator (Sunshade),2,2,-,2,-,-,-,-,-,2,-,-,-,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-,-,-
+Store Incharge,3,3,2,2,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,2,3,3,-,-,-,-,-,-,-,-,3,2,-,-,-,3,-,-
+Store Executive,3,2,2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,2,-,-
+NPD Manager (Mechanical),2,3,2,3,-,-,-,-,-,3,3,-,-,-,-,-,-,3,-,3,-,-,-,-,3,3,-,3,-,3,-,3,2,-,-,-,-,-
+NPD Manager (Electronics),2,3,-,-,-,-,-,3,3,-,-,-,-,-,-,-,-,3,-,3,-,-,-,-,-,-,-,3,-,3,-,3,2,-,-,-,-,-
+NPD Engineer (Mechanical),2,2,2,3,-,-,-,-,-,2,2,-,-,-,-,-,-,2,-,3,-,-,-,-,2,2,-,2,-,2,-,3,2,-,-,-,-,-
+Internal Auditor,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Y,-,-,-
+Admin Manager,3,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-
+HR Manager,3,3,-,-,-,-,-,-,-,-,-,-,-,-,-,3,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-
+MIS Executive,2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Packing Operator,2,2,-,2,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,2,-,-,-,-,-,-,-
+Production Operator (Mechanical),2,2,-,2,-,-,2,-,-,-,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,2,-,-,-,-,-,-,-
+Production Operator (Wiring Harness),2,2,-,2,-,-,2,-,-,-,-,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-,-,-
+Testing Operator (Electrical FG),2,2,-,2,-,-,-,3,-,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-,-,-
+Production Operator (Wire Crimping),2,2,-,2,-,-,-,-,-,-,-,-,2,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-,-,-
+Rework Operator,2,2,-,2,-,-,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-,3,-
+"Manager, Despatch",2,2,-,2,-,-,-,-,-,-,-,-,-,-,-,3,2,2,2,2,-,3,-,-,-,-,-,-,-,-,2,-,-,-,-,3,-,-
